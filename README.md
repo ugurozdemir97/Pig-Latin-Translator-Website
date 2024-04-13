@@ -2,4 +2,6 @@ This is a program that will translate your texts into the psuedo languages like 
 
 It's a very simple and fun webpage :)
 
+![Pig Latin](https://github.com/ugurozdemir97/Pig-Latin-Translator-Website/assets/64408736/8c838b4c-cebe-4cde-b1a6-c943ea52dab8)
+
 You can try it here: <a href="https://ugurozdemir97.github.io/Pig-Latin-Translator-Website/">Pig Latin Translator / Kuş Dili Çevirici</a>
